@@ -1,0 +1,1 @@
+A plugin for PyMol that allows to import .json files as PyMol molecules
